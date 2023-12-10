@@ -3,10 +3,16 @@
     font-size: 10px;
 }
 
+h1,
+h2 {
+    text-align: center;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+
 h1 {
     font-size: 30px;
     background-color: cadetblue;
-    text-align: center;
 }
 
 h2 {
@@ -18,4 +24,10 @@ p,
 li,
 .recipe-link {
     font-size: 17px;
+}
+
+img {
+    display: block;
+    width: 480px;
+    margin: auto;
 }
