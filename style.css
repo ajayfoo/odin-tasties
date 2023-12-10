@@ -24,9 +24,26 @@ h2 {
 }
 
 p,
-li,
-.recipe-link {
+li {
     font-size: 17px;
+}
+
+.recipes-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.recipe-link {
+    color: #C9DDFF;
+    background-color: #764248;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 img {
